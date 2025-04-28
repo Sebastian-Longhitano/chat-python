@@ -1,0 +1,8 @@
+2025-04-28 06:41:04,099 [INFO] Tabla 'mensajes' lista con timestamp automático.
+2025-04-28 06:41:04,101 [INFO] Servidor escuchando en 127.0.0.1:5000
+2025-04-28 06:42:07,685 [INFO] Tabla 'mensajes' creada.
+2025-04-28 06:42:07,687 [INFO] Servidor escuchando en 127.0.0.1:5000
+2025-04-28 06:44:23,591 [INFO] Conexión establecida: ('127.0.0.1', 51498)
+2025-04-28 06:46:26,047 [INFO] Mensaje guardado de 127.0.0.1
+2025-04-28 06:53:57,501 [INFO] Cliente desconectado: ('127.0.0.1', 51498)
+2025-04-28 06:53:57,501 [INFO] Socket cerrado para: ('127.0.0.1', 51498)
